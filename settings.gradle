@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='POC_sound_SW_2019'

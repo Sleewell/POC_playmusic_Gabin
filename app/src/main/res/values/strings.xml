@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POC_sound_SW_2019</string>
+    <string name="Toast">Toast</string>
+    <string name="playMusic">Play</string>
+    <string name="pauseMusic">Pause</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="musicArray">
+        <item>Music-NC</item>
+        <item>Music-HN</item>
+    </string-array>
+</resources>
